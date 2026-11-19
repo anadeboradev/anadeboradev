@@ -1,70 +1,41 @@
-#  Ana Débora
 
-**Desenvolvedor**
+<h1 align="center">Olá! Eu sou Ana Débora 👋</h1>
 
-Meu nome é Ana Débora Muniz, tenho 17 anos, nasci e cresci em Fortaleza (CE). Sou formada como técnica em desenvolvimento de sistemas e faço desenhos digitais. Eu gosto muito desenhar e principalmente a área de programação. Compartilho os meus desenhos no meu instagram, no perfil "[CAPUCCINO](https://www.instagram.com/hotcapuccino2204?igsh=MWI1aXJianZnaHZ0Nw==)", faço desenhos de estilos diferente e com vários tipos de pincéis diferentes.
+<h3 align="center">Estudante de Ciência da Computação | Desenvolvedora em formação</h3>
 
+---
 
+### 👩🏻‍💻 Sobre mim
 
- <a href="https://github.com/anadeboradev?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/anadeboradev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    
-</p>
+Meu nome é Ana Débora Muniz, sou de Fortaleza (CE), técnica em Desenvolvimento de Sistemas e atualmente estudante de Ciência da Computação.
+
+Tenho interesse na área de tecnologia, especialmente em programação, desenvolvimento de sistemas e segurança da informação. Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e desenvolver projetos que contribuam para minha evolução profissional.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+<div align="left">
+  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+</div>
 
+---
 
+### 📊 Estatísticas do GitHub
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://banner2.cleanpng.com/20180802/vty/a3d848e03d8321065ba6dbc3fed25662.webp" 
-/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anadeboradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadeboradev&layout=compact&theme=tokyonight"/>
+</div>
 
-<br/>
-<br/>
+---
 
-### 👩🏻‍🎨 aplicativos usados para fazer os desenhos
-<img 
-    align="left" 
-    alt="ibis paint" 
-    title="ibis paint"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=512&id=hylX6EPAOYOQ&format=png" 
-/>
+### 🌐 Onde me encontrar
+
+<a href="https://github.com/anadeboradev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
